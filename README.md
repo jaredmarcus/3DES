@@ -1,7 +1,5 @@
 <div align="center">
-  <picture>
-  <source srcset="resources/Uni_logo"/>
-  </picture>
+  <img src="/resources/Uni_logo.png" alt="Norwich University Logo" style="width: 250px; min-width: 250px;>
 </div>
 
 <div align="center">
